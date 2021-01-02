@@ -1,0 +1,19 @@
+body{
+    margin-top: 70px;
+background:#333;
+color: white;
+}
+
+
+.mr{
+    margin: 20px 20px           ;
+}
+.card_p{
+    background:turquoise;
+}
+.card_S{
+    background:blue;
+}
+.card_m{
+    background:yellowgreen;
+}
